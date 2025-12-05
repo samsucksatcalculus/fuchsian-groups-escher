@@ -1,6 +1,21 @@
 # fuchsian-groups-escher
 This repo contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code. If you follow this very brief tutorial, you should be able to read a group presentation off a (Euclidean, hyperbolic or spherical) tesselation.
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       alt="Circle Limit 1" 
+       style="width: 22%; margin: 1%;">
+  <img src="[image2.png](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true)" 
+       alt="Circle Limit 2" 
+       style="width: 22%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       alt="Circle Limit 3" 
+       style="width: 22%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       alt="Circle Limit 4" 
+       style="width: 22%; margin: 1%;">
+</div>
+
 Fuchsian groups are discrete subgroups of the group of orientation preserving isometries of the upper half plane. They act properly discontinuously on the upper half plane and thus give rise to a tesselation.
 
 In general Fuchsian groups have Dirichlet regions, i.e. in particular they have polygonal, convex fundamental domains. In the case of M.C. Eschers Circle Limit, we can find Dirichlet regions which are compact and finite-sided.
