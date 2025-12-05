@@ -13,6 +13,8 @@ Taking the elements (in order) which cyclically permute the vertex cycle, we can
 
 ![alt text](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true)
 
-<img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true"
-     alt="Cayley graph"
-     width="300">
+<p align="center">
+     <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true"
+          alt="interior angle size and vertex cycles of fundamental polygon of circle limit III"
+          width="500">
+</p>
