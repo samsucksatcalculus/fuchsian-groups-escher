@@ -3,4 +3,11 @@ This repo contains the Cayley graphs and group presentations of the Fuchsian gro
 
 Fuchsian groups are discrete subgroups of the group of orientation preserving isometries of the upper half plane. They act properly discontinuously on the upper half plane and thus give rise to a tesselation.
 
-In general Fuchsian groups have Dirichlet regions, i.e. in particular they have polygonal, convex fundamental domains. 
+In general Fuchsian groups have Dirichlet regions, i.e. in particular they have polygonal, convex fundamental domains. In the case of M.C. Eschers Circle Limit, we can find Dirichlet regions which are compact and finite-sided.
+
+By Sabidussis Theorem the Cayley graph of the Fuchsian groups underlying these circle Limits is isomorphic to the dual tiling graph of the tesselations by these compact, finite-sided fundamental polygons. From this Cayley graph we can deduce a set of generators (the transformations which moves an arbitrary but fixed "start-tile" to a tile with which it shares a side). These generators pair the sides of the start-tile in a unique way and thus are called side-pairing transformations. 
+
+For finite sided fundamental polygons its vertex set must be finite as well. The side-pairing transformations partition the vertex set of the fundamental polygon into vertex cycles. These subsets are called vertex cycles because a subset of the side pairing transformations cyclically permutes the elements in each vertex cycle.
+
+Taking the elements (in order) which cyclically permute the vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$.
+{
