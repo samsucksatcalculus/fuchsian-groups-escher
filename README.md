@@ -11,5 +11,8 @@ For finite sided fundamental polygons its vertex set must be finite as well. The
 
 Taking the elements (in order) which cyclically permute the vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$.
 
-![alt text](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png)
+![alt text](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true)
 
+<img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true"
+     alt="Cayley graph"
+     width="300">
