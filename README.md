@@ -69,6 +69,19 @@ Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically 
           width="500">
 </p>
 
+Example: Figure \ref{fig:4.3.3a} shows the side pairing of our fundamental polygon in Circle Limit III. The sides of $F$ which meet in the four-fin vertex are paired by the hyperbolic rotations $T_1, T_1^{-1}$ about the four-fin vertex through $2\pi/4$ and $-2\pi/4$, respectively. Similarly, the remaining two sides of $F$, which meet in the three-fin vertex, are paired by the hyperbolic rotations $T_2,T_2^{-1}$ about the three-fin vertex through $2\pi/3$ and $-2\pi/3$, respectively.
+
+The side-pairing transformations identify three vertex cycles. 
+  \begin{itemize}
+    \item The first vertex cycle contains only the vertex at which four fins meet. It is fixed by $T_1$ and the interior angle of $F$ 
+    at this vertex is $2\pi/4$.
+    \item The second vertex cycle contains only the vertex at which three fins meet. It is fixed by $T_2$ and the interior angle of $F$ 
+    at this vertex is $2\pi/3$.
+    \item The third vertex cycle contains the mouth and tail-fin vertex. The mouth vertex is mapped onto the tail-fin vertex by $T_1$
+    and the tail-fin vertex is mapped back to the mouth vertex by $T_2$. The sum of interior angles of this vertex cycle is 
+    $2\pi/6 + 2\pi/6 = 2\pi /3$.
+  \end{itemize}
+
 In this fashion we can identify all vertex cycles of a fundamental polygon and a relationship for each cycle. Through this approach, we can derive a group presentation for the underlying Fuchsian groups of all four Circle Limits (or any other symmetry group of any other tesselation). 
 
 <div style="display: flex; justify-content: center;">
@@ -80,6 +93,10 @@ In this fashion we can identify all vertex cycles of a fundamental polygon and a
        style="width: 48%; margin: 1%;">
 </div>
 
+$$
+  \Gamma_{\mathrm{I}} = \langle T_1, T_2, T_3 \; | \; T_1^3 = T_2^2 = (T_3T_1)^2 = (T_3T_2)^2 = id \rangle
+$$
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-2-Side-Pairing.png?raw=true" 
        alt="Circle Limit 1" 
@@ -88,6 +105,10 @@ In this fashion we can identify all vertex cycles of a fundamental polygon and a
        alt="Circle Limit 2" 
        style="width: 48%; margin: 1%;">
 </div>
+
+$$
+  \Gamma_{\mathrm{II}} = \langle T_1, T_2, T_3 \; | \; T_1^4 = T_2^3 = T_3^3 = T_2T_3T_1 = id \rangle
+$$
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Side-Pairing.png?raw=true" 
@@ -98,6 +119,10 @@ In this fashion we can identify all vertex cycles of a fundamental polygon and a
        style="width: 48%; margin: 1%;">
 </div>
 
+$$
+  \Gamma_{\mathrm{III}} = \langle T_1, T_2 \; | \; T_1^4 = T_2^3 = (T_2T_1)^3 = id \rangle
+$$
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-4-Side-Pairing.png?raw=true" 
        alt="Circle Limit 1" 
@@ -106,3 +131,7 @@ In this fashion we can identify all vertex cycles of a fundamental polygon and a
        alt="Circle Limit 2" 
        style="width: 48%; margin: 1%;">
 </div>
+
+$$
+  \Gamma_{\mathrm{IV}} = \langle T_1, T_2 \; | \; T_1^3 = T_2^4 = (T_2T_1)^4 = id \rangle
+$$
