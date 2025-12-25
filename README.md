@@ -72,7 +72,7 @@ Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically 
        style="width: 48%; margin: 1%;">
 </div>
 
-Example: Figure \ref{fig:4.3.3a} shows the side pairing of our fundamental polygon in Circle Limit III. The sides of $F$ which meet in the four-fin vertex are paired by the hyperbolic rotations $T_1, T_1^{-1}$ about the four-fin vertex through $2\pi/4$ and $-2\pi/4$, respectively. Similarly, the remaining two sides of $F$, which meet in the three-fin vertex, are paired by the hyperbolic rotations $T_2,T_2^{-1}$ about the three-fin vertex through $2\pi/3$ and $-2\pi/3$, respectively.
+The figure above shows the side pairing of our fundamental polygon in Circle Limit III. The sides of $F$ which meet in the four-fin vertex are paired by the hyperbolic rotations $T_1, T_1^{-1}$ about the four-fin vertex through $2\pi/4$ and $-2\pi/4$, respectively. Similarly, the remaining two sides of $F$, which meet in the three-fin vertex, are paired by the hyperbolic rotations $T_2,T_2^{-1}$ about the three-fin vertex through $2\pi/3$ and $-2\pi/3$, respectively.
 
 <p>The side-pairing transformations identify three vertex cycles.</p>
 
