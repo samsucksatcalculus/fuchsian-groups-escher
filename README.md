@@ -34,7 +34,7 @@ $$
   <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/Circle-Limit-III.jpeg?raw=true" 
        alt="Circle Limit 3" 
        style="width: 48%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/CKL3-tiling-halfplane?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/CKL3-tiling-halfplane.png?raw=true" 
        alt="Circle Limit 3 mapped into upper half plane" 
        style="width: 48%; margin: 1%;">
 </div>
@@ -42,16 +42,16 @@ $$
 In general Fuchsian groups have Dirichlet regions, i.e. in particular they have polygonal, convex fundamental domains. In the case of M.C. Eschers Circle Limit, we can find Dirichlet regions which are compact and finite-sided.
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-1-Dirichlet.jpeg?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-1-Dirichlet.png?raw=true" 
        alt="Circle Limit 1" 
        style="width: 24%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-2-Dirichlet.jpeg?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-2-Dirichlet.png?raw=true" 
        alt="Circle Limit 2" 
        style="width: 24%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Dirichlet.jpeg?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Dirichlet.png?raw=true" 
        alt="Circle Limit 3" 
        style="width: 24%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-4-Dirichlet.jpeg?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-4-Dirichlet.png?raw=true" 
        alt="Circle Limit 4" 
        style="width: 24%; margin: 1%;">
 </div>
