@@ -69,34 +69,29 @@ Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically 
           width="500">
 </p>
 
+<p align="center">
+     <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Side-Pairing.png?raw=true"
+          alt="Side-pairing transformations of Circle Limit III"
+          width="500">
+</p>
+
 Example: Figure \ref{fig:4.3.3a} shows the side pairing of our fundamental polygon in Circle Limit III. The sides of $F$ which meet in the four-fin vertex are paired by the hyperbolic rotations $T_1, T_1^{-1}$ about the four-fin vertex through $2\pi/4$ and $-2\pi/4$, respectively. Similarly, the remaining two sides of $F$, which meet in the three-fin vertex, are paired by the hyperbolic rotations $T_2,T_2^{-1}$ about the three-fin vertex through $2\pi/3$ and $-2\pi/3$, respectively.
 
-The side-pairing transformations identify three vertex cycles. 
-  \begin{itemize}
-    \item The first vertex cycle contains only the vertex at which four fins meet. It is fixed by $T_1$ and the interior angle of $F$ 
-    at this vertex is $2\pi/4$.
-    \item The second vertex cycle contains only the vertex at which three fins meet. It is fixed by $T_2$ and the interior angle of $F$ 
-    at this vertex is $2\pi/3$.
-    \item The third vertex cycle contains the mouth and tail-fin vertex. The mouth vertex is mapped onto the tail-fin vertex by $T_1$
-    and the tail-fin vertex is mapped back to the mouth vertex by $T_2$. The sum of interior angles of this vertex cycle is 
-    $2\pi/6 + 2\pi/6 = 2\pi /3$.
-  \end{itemize}
-
-  <p>The side-pairing transformations identify three vertex cycles.</p>
+<p>The side-pairing transformations identify three vertex cycles.</p>
 
 <ul>
   <li>
-    The first vertex cycle contains only the vertex at which four fins meet. 
-    It is fixed by <em>T<sub>1</sub></em> and the interior angle of <em>F</em> at this vertex is 2π/4.
+    The first vertex cycle contains only the vertex at which four fins meet. It is fixed by $T_1$ and the interior angle of $F$ 
+    at this vertex is $2\pi/4$.
   </li>
   <li>
-    The second vertex cycle contains only the vertex at which three fins meet. 
-    It is fixed by <em>T<sub>2</sub></em> and the interior angle of <em>F</em> at this vertex is 2π/3.
+    The second vertex cycle contains only the vertex at which three fins meet. It is fixed by $T_2$ and the interior angle of $F$ 
+    at this vertex is $2\pi/3$.
   </li>
   <li>
-    The third vertex cycle contains the mouth and tail-fin vertex. 
-    The mouth vertex is mapped onto the tail-fin vertex by <em>T<sub>1</sub></em> and the tail-fin vertex is mapped back to the mouth vertex by <em>T<sub>2</sub></em>. 
-    The sum of interior angles of this vertex cycle is 2π/6 + 2π/6 = 2π/3.
+    The third vertex cycle contains the mouth and tail-fin vertex. The mouth vertex is mapped onto the tail-fin vertex by $T_1$
+    and the tail-fin vertex is mapped back to the mouth vertex by $T_2$. The sum of interior angles of this vertex cycle is 
+    $2\pi/6 + 2\pi/6 = 2\pi /3$.
   </li>
 </ul>
 
