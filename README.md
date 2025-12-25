@@ -82,6 +82,24 @@ The side-pairing transformations identify three vertex cycles.
     $2\pi/6 + 2\pi/6 = 2\pi /3$.
   \end{itemize}
 
+  <p>The side-pairing transformations identify three vertex cycles.</p>
+
+<ul>
+  <li>
+    The first vertex cycle contains only the vertex at which four fins meet. 
+    It is fixed by <em>T<sub>1</sub></em> and the interior angle of <em>F</em> at this vertex is 2π/4.
+  </li>
+  <li>
+    The second vertex cycle contains only the vertex at which three fins meet. 
+    It is fixed by <em>T<sub>2</sub></em> and the interior angle of <em>F</em> at this vertex is 2π/3.
+  </li>
+  <li>
+    The third vertex cycle contains the mouth and tail-fin vertex. 
+    The mouth vertex is mapped onto the tail-fin vertex by <em>T<sub>1</sub></em> and the tail-fin vertex is mapped back to the mouth vertex by <em>T<sub>2</sub></em>. 
+    The sum of interior angles of this vertex cycle is 2π/6 + 2π/6 = 2π/3.
+  </li>
+</ul>
+
 In this fashion we can identify all vertex cycles of a fundamental polygon and a relationship for each cycle. Through this approach, we can derive a group presentation for the underlying Fuchsian groups of all four Circle Limits (or any other symmetry group of any other tesselation). 
 
 <div style="display: flex; justify-content: center;">
