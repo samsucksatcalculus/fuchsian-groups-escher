@@ -23,10 +23,11 @@ $$
   C: \mathbb{D} &\to \mathbb{D} \\
               z &\mapsto \frac{z-i}{z+i}
 \end{aligned}
-
+$$
+$$
 \begin{aligned}
   C^{-1}: \mathbb{D} &\to \mathbb{D} \\
-              z &\mapsto -i \; \frac{z+1}{z-1}
+              z &\mapsto -i \, \frac{z+1}{z-1}
 \end{aligned}
 $$
 
